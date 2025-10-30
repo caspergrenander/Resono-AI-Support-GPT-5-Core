@@ -1,0 +1,7 @@
+{
+  "name": "Resono AI Support GPT-5 Core",
+  "description": "A self-thinking AI brain for ticket management, agent coordination, and customer communication, built entirely within the Google Apps Script ecosystem. This system uses Gmail, Sheets, and Drive, orchestrated by modular code and powered by the Gemini API, to create a self-organizing support intelligence.",
+  "version": "1.0",
+  "author": "Casper Grenander / Resono AI Group",
+  "environment": "Google Apps Script"
+}
